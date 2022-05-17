@@ -1,3 +1,2 @@
-A test file to work on the commit and pull in GitHub
+A test file to work on the branches in GitHub
 
-The same file is now used to check the branching feature.
