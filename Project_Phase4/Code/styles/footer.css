@@ -1,0 +1,24 @@
+/* Footer style properties */
+.footer {
+  background-color: #f7f7f7;
+  text-align: center;
+  font-family: sans-serif;
+  color: #303538;
+  padding-top: 20px;
+  height: 200px;
+}
+
+.credits {
+  padding-top: 30px;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.credits a {
+  text-decoration: none;
+  color: #615e5e;
+}
+
+.credits a:hover {
+  color: blue;
+}

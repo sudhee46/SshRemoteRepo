@@ -1,0 +1,72 @@
+/* Applying style properties for Menu section of the Home page */
+.recipe {
+  margin-top: 50px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.recipe-title {
+  color: rgb(26, 138, 69);
+  font-size: 30px;
+  font-family: sans-serif;
+  text-decoration: underline;
+  margin-top: 5px;
+}
+.about-recipe {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 20px;
+  color: blanchedalmond;
+  line-height: 25px;
+}
+
+.price-tag {
+  font-size: 25px;
+  margin-top: 18px;
+  font-family: sans-serif;
+  color: rgb(161, 153, 153);
+  border-bottom: solid 1px #665c5ccb;
+}
+.btn {
+  text-align: center;
+  margin: 50px;
+}
+
+.btn-more {
+  background-color: rgb(26, 138, 69);
+  width: 150px;
+  height: 50px;
+  border: none;
+  border-radius: 25px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: #f0f0ff;
+  cursor: pointer;
+}
+
+/*Applying styles for menu.html  */
+
+.main-recipe {
+  display: flex;
+  justify-content: center;
+}
+
+.main-recipe > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.main-recipe-title {
+  text-align: center;
+  text-decoration: none;
+}
+
+.combo-items {
+  color: rgba(47, 156, 89, 0.849);
+  font-size: 20px;
+  position: relative;
+  top: 20px;
+}

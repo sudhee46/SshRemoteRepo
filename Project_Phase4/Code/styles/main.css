@@ -1,0 +1,96 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #011838;
+}
+
+/* Applying style for header/Navbar */
+.menu-head {
+  background-color: #f7f7f7;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 1000px;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+}
+
+.menu-option {
+  list-style: none;
+  float: right;
+  text-align: center;
+  padding-top: 20px;
+}
+
+ul li {
+  display: inline;
+  padding: 30px;
+}
+
+#logo {
+  height: 90px;
+  width: 100px;
+  padding: 10px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #303538;
+}
+
+ul li:hover {
+  background-color: #807d7d85;
+}
+
+.nav-link:hover {
+  color: rgb(26, 138, 69);
+}
+
+/* Main content style properties */
+#head-text {
+  color: #f7f7f7;
+  text-align: center;
+  padding-top: 30px;
+  letter-spacing: 5px;
+  font-family: "Ranchers", cursive;
+}
+
+#tagline {
+  text-align: center;
+  font-family: sans-serif;
+  color: rgb(243, 218, 184);
+  font-size: 15px;
+  padding-bottom: 5px;
+  margin-top: -10px;
+}
+
+.about {
+  padding: 90px;
+  color: #f3ecc2;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  line-height: 37px;
+  font-weight: 600;
+  background-image: url(https://www.bakespace.com/images/large/f468b5f5247496b4f854e203bd46a7cd.jpeg);
+  background-repeat: no-repeat;
+  background-size: 1500px 900px;
+}
+
+.about-content {
+  background: rgba(54, 54, 65, 0.432);
+  height: 140px;
+}
+
+.sub-title {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: #f7f7f7;
+  text-decoration: underline;
+  margin-bottom: 30px;
+}
